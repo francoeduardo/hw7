@@ -1,0 +1,24 @@
+1 - What is voltage?
+Voltage is the potential energy, stored in the form of electric charge, that allows electrons to flow through a conductor. It is always expressed as a quantity between two points; it is the measure of the energy required to move a unit charge from one point to another.
+
+
+
+2 - What is resistance?
+Resistance is the measure of opposition to electric current. For example, in a lamp, the metal filament provokes more opposition to the motion of electrons than a piece of wire. That resistance results in the dissipation of heat energy, which generates the light we see.
+
+
+
+3 - Is a short circuit an example of a closed or open circuit?
+Closed circuit.
+
+
+
+4 - How can you determine if a circuit is closed or open?
+A closed circuit is a circuit where there's flow of electrons. If there's a break in the continuity of the circuit (the wire is broken, or the battery is not connected, for example), it is an open circuit.
+
+The simplest way to figure if a circuit is closed or open is to see if the lamp (or another indicator) is turning on. A lamp will only turn on in a closed circuit.
+
+
+
+5 - Did you set up your computer to use the Feather?
+Yes.
